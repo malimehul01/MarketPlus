@@ -157,7 +157,7 @@ COINGECKO_API_KEY=your_api_key_here
 
 | Market List | Coin Detail | Offline Mode |
 |:-----------:|:-----------:|:------------:|
-| <img width="720" height="1520" alt="WhatsApp Image 2026-10-22 at 9 36 35 AM" src="https://github.com/user-attachments/assets/fc4188a3-8a74-43b1-8176-b20eebea7e25" />| <img width="720" height="1520" alt="WhatsApp Image 2026-10-22 at 9 36 34 AM" src="https://github.com/user-attachments/assets/baa2aa94-fc05-4451-a55d-c96864a3780e" /> |  <img width="720" height="1520" alt="WhatsApp Image 2026-10-22 at 9 36 34 AM (1)" src="https://github.com/user-attachments/assets/d2a684fd-6e6a-4f6e-85c0-b7b142a3d910" />|
+| <img width="720" height="1520" alt="WhatsApp Image 2026-10-22 at 9 36 35 AM" src="https://github.com/user-attachments/assets/df9f8d17-95f6-4e30-806e-6d8f3d17d17c" />|<img width="720" height="1520" alt="WhatsApp Image 2026-10-22 at 9 36 34 AM" src="https://github.com/user-attachments/assets/9873180f-dc06-4ba0-af41-77816d1a8d10" /> | <img width="720" height="1520" alt="WhatsApp Image 2026-10-22 at 9 36 34 AM (1)" src="https://github.com/user-attachments/assets/48fbc284-5f7a-4867-a211-146a22e9a8b3" />|
 
 ---
 
